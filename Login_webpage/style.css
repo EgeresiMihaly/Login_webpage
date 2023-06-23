@@ -9,9 +9,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: url(car3_bg.jpg) no-repeat center;
     min-height: 100vh;
     background-size: cover;
-    background: url('bg.jpg') no-repeat center;
+    
 }
 
 header {
